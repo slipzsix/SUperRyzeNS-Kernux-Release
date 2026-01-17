@@ -1,6 +1,6 @@
 # SUperRyzeNS-Kernel-Realease
 
-# SUperRyzeNS Kernel
+# 🦊SUperRyzeNS
 
 A balanced-performance kernel designed for smooth UI, stability, and comfortable daily use.
 
