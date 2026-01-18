@@ -2,6 +2,8 @@
 
 #        🦊SUperRyzeNS
 
+![SUperRyzeNS Kernel](image/1000023399.jpg)
+
 A balanced-performance kernel designed for smooth UI, stability, and comfortable daily use.
 
 ---
