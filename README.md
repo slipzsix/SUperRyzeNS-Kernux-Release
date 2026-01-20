@@ -40,5 +40,3 @@ Kernel builds ready on page [Release](https://github.com/slipzsix/SUperRyzeNS-Ke
 ⚠️ **Notes**
 
 - **Don’t use any thermal-disabling tweaks, for the sake of your device’s safety.**
-
----
